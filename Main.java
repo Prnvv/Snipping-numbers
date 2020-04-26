@@ -2,8 +2,8 @@ public class Main{
 	
 	public static void main(String args[]){
 
-		int start = 100;
-		int end = 1000;
+		int start = 0;
+		int end = 105;
 
 		for(int i = start; i<=end;i++){
 			checkStepping(i);
